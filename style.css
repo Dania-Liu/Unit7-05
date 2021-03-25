@@ -1,0 +1,13 @@
+#body {
+  background-color: khaki;
+}
+
+#heading {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: lightseagreen;
+}
+
+#answer {
+  background-color: lightseagreen;
+}
